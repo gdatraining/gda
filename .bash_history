@@ -255,3 +255,47 @@ rm -f .
 rm -f file1 file2 file3
 ls
 git pull origin master
+clear
+ls
+git branch
+git rm branch new
+cd madan
+ls
+git version
+git remote -v
+git branch
+git branch -d new
+git branch -d new1
+git branch
+git branch sai
+git branch
+git checkout
+git checkout sai
+git checkout master
+git branch
+git checkout sai
+git branch
+git checkout master
+ls
+touch file1 file2 file3
+ls
+git status
+git add .
+git status
+git commit -m "files"
+git status
+tree
+sudo yum install tree
+service start tree
+systemctl start tree
+systemctl start service tree
+systemctl service start tree
+tree
+git branch
+git push origin master
+git status
+git checkout sai
+git remote -v
+git add origin https://github.com/gdatraining/gda.git
+git checkout master
+exit
